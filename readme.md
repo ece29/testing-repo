@@ -6,4 +6,6 @@ middlewares/
 services/
 utlis/
 config/ -->
--tests
+<!-- -tests/[later]
+<!-- sttaic/
+temp/ --> -->
