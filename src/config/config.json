@@ -1,0 +1,17 @@
+
+{
+  "development": {
+    "username": "hrms_user",
+    "password": "12345678",
+    "database": "prince",
+    "host": "LAPTOP-SO0S5877",
+    "port": 1433,
+    "dialect": "mssql",
+    "dialectOptions": {
+      "options": {
+        "encrypt": true,
+        "trustServerCertificate": true
+      }
+    }
+  }
+}
